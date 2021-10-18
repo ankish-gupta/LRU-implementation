@@ -7,9 +7,10 @@ Pre-requisites:
 2. Basics knowledge of STL (i have used unordered_map and list here)
 3. Hashing
 
-I have done following 3 things in my program :
+What a user can do :
 1. Insert data in key-value pair
 2. Get the value of the entered string
 3. Return the most recently used key value pair.
 
 I have also added a lot of comments in between the code for better understanding :)
+#KEEP LEARNING
